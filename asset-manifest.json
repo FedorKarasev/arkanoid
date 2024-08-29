@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arkanoid/static/css/main.a89006a8.css",
+    "main.js": "/arkanoid/static/js/main.c21516d6.js",
+    "index.html": "/arkanoid/index.html",
+    "main.a89006a8.css.map": "/arkanoid/static/css/main.a89006a8.css.map",
+    "main.c21516d6.js.map": "/arkanoid/static/js/main.c21516d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89006a8.css",
+    "static/js/main.c21516d6.js"
+  ]
+}
